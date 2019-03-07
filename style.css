@@ -1,0 +1,22 @@
+/*
+ Theme Name:   Child Of Seventeen
+ Theme URI:    http://example.com/child-of-seventeen/
+ Description:  Child Of Seventeen Theme
+ Author:       Maya Geisler
+ Author URI:   http://example.com
+ Template:     twentyseventeen
+ Version:      1.0.0
+*/
+	
+
+button, 
+input[type="button"], 
+input[type="submit"] {
+    background-color: #e47c7c;
+}
+
+.site-footer {
+    border-top: 2px solid #ddd;
+    background-color: #eee;
+}
+
